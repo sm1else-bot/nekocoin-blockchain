@@ -5,8 +5,7 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-	"github.com/web3coach/the-blockchain-bar/database"
-)
+	"github.com/sm1else-bot/nekocoin-blockchain/database"
 
 func balancesCmd() *cobra.Command {
 	var balancesCmd = &cobra.Command{

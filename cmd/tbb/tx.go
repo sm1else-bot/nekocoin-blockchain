@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/spf13/cobra"
-	"github.com/web3coach/the-blockchain-bar/database"
 	"fmt"
 	"os"
+
+	"github.com/sm1else-bot/nekocoin-blockchain/database"
+	"github.com/spf13/cobra"
 )
 
 const flagFrom = "from"

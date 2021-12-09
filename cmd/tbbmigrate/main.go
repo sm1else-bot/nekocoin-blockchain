@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/web3coach/the-blockchain-bar/database"
+	"github.com/sm1else-bot/nekocoin-blockchain/database"
 )
 
 func main() {
